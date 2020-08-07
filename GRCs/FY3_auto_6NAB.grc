@@ -46,7 +46,7 @@
     </param>
     <param>
       <key>id</key>
-      <value>top_block</value>
+      <value>FY3BC</value>
     </param>
     <param>
       <key>max_nouts</key>
@@ -192,7 +192,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(264, 12)</value>
+      <value>(304, 12)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1282,7 +1282,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/boci/Satellite-Decoders-master/FengYun Decoder/build/FY3B1.bin</value>
+      <value>/FY3/FY3B1.bin</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -1329,7 +1329,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/boci/Satellite-Decoders-master/FengYun Decoder/build/FY3B1.raw</value>
+      <value>FY3/FY3B1.raw</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -2574,7 +2574,7 @@ class blk(gr.sync_block):  # other base classes are basic_block, decim_block, in
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(160, 12)</value>
+      <value>(192, 28)</value>
     </param>
     <param>
       <key>_rotation</key>
