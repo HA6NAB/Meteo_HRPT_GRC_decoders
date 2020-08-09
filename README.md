@@ -1,1 +1,1 @@
-# Meteo_HRPT_decoders
+# Meteo_HRPT_decoders and demodulator
